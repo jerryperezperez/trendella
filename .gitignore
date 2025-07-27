@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+
+# VS Code settings (just in case)
+.vscode/
+
+# Logs, backups, etc.
+*.log
+*.bak
+*.tmp
