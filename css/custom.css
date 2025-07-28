@@ -2,7 +2,14 @@
     width: 200px;
     height: 200px;
 }
+.h1{
+    color: #363F41;
+}
+nav {
+    background-color: #F3D7CC;
 
-nav{
+}
+
+body {
     background-color: #F3D7CC;
 }
